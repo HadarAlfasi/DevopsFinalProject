@@ -10,7 +10,7 @@
 <div align="center">
 	<h1>Final DevOps Project</h1>
 	<form action="register" method="post">
-			<table style="with: 50%">
+			<table style="width: 50%">
 				<tr>
 					<td>First Name</td>
 					<td><input type="text" name="first_name" /></td>
